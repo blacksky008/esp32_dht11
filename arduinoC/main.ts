@@ -4,8 +4,20 @@ enum PIN_DigitalWrite {
     D2,
     //% block="D3"
     D3,
-    //% block="D4"
-    D4,
+    //% block="D5"
+    D5,
+   //% block="D6"
+    D6,
+    //% block="D7"
+    D7,
+    //% block="D9"
+    D9,
+    //% block="D10"
+    D10,
+    //% block="D11"
+    D11,
+    //% block="D12"
+    D12,
 
 }
 
