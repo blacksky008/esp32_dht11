@@ -1,0 +1,25 @@
+{
+	"name": {
+		"zh-cn": "DHT11",
+		"en": "DHT11"
+	},
+	"description": {
+		"zh-cn": "测量环境温度和湿度",
+		"en": "Measure ambient temperature and humidity"
+	},
+	"author": "Blacksky008",
+	"email": "skyhek@qq.com",
+	"license": "MIT",
+	"isBoard": false,
+	"id": "DHT11",
+	"platform": ["win", "mac", "web"],
+	"version": "0.0.1",
+	"asset": {
+		"arduinoC": {
+			"dir": "arduinoC/",
+			"version": "0.0.1",
+			"board": ["firebeetleesp32"],
+			"main": "main.ts"
+		}
+	}
+}
